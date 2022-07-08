@@ -25,12 +25,6 @@
 #define DHT_PIN D7
 #define DHTTYPE DHT11
 
-// WIFI ####
-#define LGD_HOME_SSID "Livebox-CE89"
-#define LGD_HOME_PASS "29CF5F85C6AA2A81C7A76699C0"
-
-#define TLS_HOME_SSID "SFR_39A8"
-#define TLS_HOME_PASS "3xvf28dfrk3vth42rsya"
 
 using namespace std;
 
